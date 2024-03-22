@@ -1,0 +1,1 @@
+All files containing code present in this folder have been borrowed from the following repo: https://github.com/sdras/night-owl-vscode-theme/tree/main/demo under the MIT license.
