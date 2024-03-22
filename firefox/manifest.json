@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Magnesium",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-001-9c6d74e14860e77ee6f8f43e824bff25.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(25, 25, 25)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(19, 19, 19)",
+      "tab_background_text": "rgb(190, 185, 195)",
+      "toolbar_field": "rgb(34, 34, 34)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(221, 201, 92)",
+      "popup": "rgb(34, 34, 34)",
+      "popup_text": "rgb(240, 237, 238)",
+      "tab_loading": "rgb(221, 201, 92)"
+    }
+  }
+}
