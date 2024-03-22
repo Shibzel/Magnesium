@@ -1,0 +1,21 @@
+{
+  "name": "magnesium",
+  "displayName": "Magnesium",
+  "description": "An elegant and useful dark theme for VSCode, Obsidian, and other applications.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Magnesium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Magnesium.json"
+      }
+    ]
+  }
+}
